@@ -75,10 +75,10 @@ GitHub请访问[github官网][web]
 |     小白      | 年龄 | 性别 |
 
 Html语法支持：  
-由于Markdown的轻量化、<span style = "color:red;font-size:20px">易读易写特性</span>，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息
+由于Markdown的轻量化、<span style ="color:red;font-size:20px">易读易写特性</span>，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息
 
 html插入图片：  
-<img style = "width:256px;height:144px" src ="https://th.bing.com/th/id/OIP.7sAjIeoQYWnXV_QnuYs1jQHaEK?w=329&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img style ="width:256px;height:144px" src="https://th.bing.com/th/id/OIP.7sAjIeoQYWnXV_QnuYs1jQHaEK?w=329&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 
 $$
