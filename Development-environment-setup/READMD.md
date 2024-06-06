@@ -1,44 +1,45 @@
-# ¿ª·¢»·¾³´î½¨
+# å¼€å‘ç¯å¢ƒæ­å»º
 ***
-## VS CODE£ºC/C++ ¿ª·¢»·¾³´î½¨
-**CODE²å¼ş£º**  
+## VS CODEï¼šC/C++ å¼€å‘ç¯å¢ƒæ­å»º
+**CODEæ’ä»¶ï¼š**  
 * C/C++
 * C/C++ Extension Pack
 * C/C++ Themes
 * Chinese
-* Arm Assembly          *»ã±à*
+* Arm Assembly          *æ±‡ç¼–*
 * CMake 
 * CMake Tools
-* Include Autocomplate  *Í·ÎÄ¼ş²¹È«*
+* Include Autocomplate  *å¤´æ–‡ä»¶è¡¥å…¨*
 * Markdown All in One
 * Markdown PDF
-* One Dark Pro          *codeÖ÷Ìâ*
-* Rainbow Brackets      *²Êºç»¨À¨ºÅ*
+* One Dark Pro          *codeä¸»é¢˜*
+* Rainbow Brackets      *å½©è™¹èŠ±æ‹¬å·*
 * Tabnine AI Autocomplete & ...
 * Vim  
-## Ubuntu£º¿ª·¢»·¾³´î½¨
-### °²×°³£¹æVIM  
-1. Ğ¶ÔØ vim-tiny  
+## Ubuntuï¼šå¼€å‘ç¯å¢ƒæ­å»º
+### å®‰è£…å¸¸è§„VIM  
+1. å¸è½½ vim-tiny  
    > **sudo apt-get remove vim-common**
-2. ÏÂÔØ vim-full
+2. ä¸‹è½½ vim-full
    > **sudo apt-get install vim**
-### ³õÊ¼»¯ scp
-*ÇåÀíscpÒÅÁôip£¬ÒÔ±ãÊ¹ÓÃscpÃüÁî*
-> 1. **½øÈëWindowsÖÕ¶Ë**  
-> 2. **ÊäÈë ssh-keygen -R XXX.XXX.XXX.XXX**  
-> 3. **XXX... ÎªÖ®Ç°Á¬½ÓÊ±µÄip**
-### ÔÊĞí root ÓÃ»§µÇÂ¼ ssh  
+### åˆå§‹åŒ– scp
+*æ¸…ç†scpé—ç•™ipï¼Œä»¥ä¾¿ä½¿ç”¨scpå‘½ä»¤*
+> 1. **è¿›å…¥Windowsç»ˆç«¯**  
+> 2. **è¾“å…¥ ssh-keygen -R XXX.XXX.XXX.XXX**  
+> 3. **XXX... ä¸ºä¹‹å‰è¿æ¥æ—¶çš„ip**
+### å…è®¸ root ç”¨æˆ·ç™»å½• ssh  
 > 1. **vim /etc/ssh/sshd_config**  
-> 2. **ĞŞ¸ÄÅäÖÃ£ºPermitRootLogin yes**
-### Æô¶¯ ssh
+> 2. **ä¿®æ”¹é…ç½®ï¼šPermitRootLogin yes**
+### å¯åŠ¨ ssh
 > 1. **sudo service ssh start**
-> 2. **Èç¹ûÌáÊ¾£ºfailed to start ssh.     service:unit ssh.service not found**  
-> >  ÊäÈë£º  
+> 2. **å¦‚æœæç¤ºï¼šfailed to start ssh.     service:unit ssh.service not found**  
+> >  è¾“å…¥ï¼š  
 > >  1. sudo apt-get update  
 > >  2. sudo apt-get install openssh-server   
-> 3. **ÔÙ´Î¿ªÆô£ºsudo systemctl start ssh**
-### °²×° plasma-discover
+> 3. **å†æ¬¡å¼€å¯ï¼šsudo systemctl start ssh**
+### å®‰è£… plasma-discover
 > 1. **sudo apt-get update**
 > 2. **sudo apt-get install plasma-discover**
-
+### ä¸‹è½½æ„å»ºå·¥å…·åŒ…
+> build-essential
 
