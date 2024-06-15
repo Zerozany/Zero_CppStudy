@@ -42,4 +42,7 @@
 > 2. **sudo apt-get install plasma-discover**
 ### 下载构建工具包
 > build-essential
+### 下载网络工具
+> sudo apt update  
+> sudo apt install net-tools
 
