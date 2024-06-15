@@ -45,4 +45,6 @@
 ### 下载网络工具
 > sudo apt update  
 > sudo apt install net-tools
-
+### 升级编译器
+> sudo apt-get update
+> sudo apt-get install gcc-14 g++-14
